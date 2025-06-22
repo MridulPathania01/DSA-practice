@@ -10,4 +10,3 @@ for _ in range(t):
             b[i],b[i+1]=b[i+1],b[i]
             
     print(b)
-    
